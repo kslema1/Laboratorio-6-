@@ -49,5 +49,106 @@ Figura 6.1. Circuito para comprobar el Teorema de la MTP
 
 3.6.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
 
+imagenes....
 
 
+
+
+
+
+
+
+3.6.3. Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
+
+
+imagenes....
+
+
+
+
+
+
+3.6.4. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados en la tabla 3.1.
+
+![image](https://user-images.githubusercontent.com/116772752/212809604-1fee58ed-d7a4-496e-9ba1-1dfb18894702.png)
+
+![image](https://user-images.githubusercontent.com/116772752/212810324-1608456e-9125-4d21-9237-60a3d439b473.png)
+
+![image](https://user-images.githubusercontent.com/116772752/212809656-8fec397d-0f56-4342-9d37-e5587c81430f.png)
+
+![image](https://user-images.githubusercontent.com/116772752/212810365-2ae36cb2-3951-4505-83a3-d33b7f7ee40f.png)
+
+![image](https://user-images.githubusercontent.com/116772752/212809719-979204a1-d196-4e18-aaf7-203cf51c44b0.png)
+
+![image](https://user-images.githubusercontent.com/116772752/212810405-b65294a5-2e33-4616-a3c9-09680d8bf27e.png)
+
+![image](https://user-images.githubusercontent.com/116772752/212809768-c11d3dfe-ea06-4d53-8479-487c603d5ea9.png)
+
+![image](https://user-images.githubusercontent.com/116772752/212810446-675a81ff-235a-4450-876c-0be7318566bf.png)
+
+![image](https://user-images.githubusercontent.com/116772752/212809825-c56bf542-9e0c-418c-b9bb-4933505559ba.png)
+
+![image](https://user-images.githubusercontent.com/116772752/212810467-0ea03290-21c4-45bf-b104-2166c663c1be.png)
+
+![image](https://user-images.githubusercontent.com/116772752/212809888-19fefb2f-53d0-4822-a19c-0daa86035143.png)
+
+![image](https://user-images.githubusercontent.com/116772752/212810486-ecc8dc46-8d4c-491d-86a4-0b43811c3f57.png)
+
+![image](https://user-images.githubusercontent.com/116772752/212809946-88b6a95c-5f24-45fa-8eb4-e6b999f1b525.png)
+
+![image](https://user-images.githubusercontent.com/116772752/212810508-81412de1-0521-4a8f-b5ad-e268639cb6d4.png)
+
+![image](https://user-images.githubusercontent.com/116772752/212809987-7f6a38a4-484e-4d57-a818-9c88732de179.png)
+
+![image](https://user-images.githubusercontent.com/116772752/212810525-2fb4b0da-f770-4340-8db3-2b1957128551.png)
+
+![image](https://user-images.githubusercontent.com/116772752/212810044-8f93ee6a-0388-4f13-ba50-a006d29f76a4.png)
+
+![image](https://user-images.githubusercontent.com/116772752/212810543-800508f1-8aa8-4ef2-830e-e00fb8127661.png)
+
+![image](https://user-images.githubusercontent.com/116772752/212810990-f214232f-7cdf-4727-93c4-cbdca80c215f.png)
+
+![image](https://user-images.githubusercontent.com/116772752/212811005-a9a3d47b-2f00-4c49-8b8b-a0af7e7fcab4.png)
+
+Anote los resultados medidos.
+
+Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
+
+imagen cuadro de datos
+
+3.6.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
+
+![image](https://user-images.githubusercontent.com/116772752/212811363-86a37dd7-840b-40ce-bdf8-21eaf89256a6.png)
+
+3.6.5. ¿Cuál fue la potencia máxima en RL? _0.048_Watts
+
+3.6.6. ¿Para qué valor de RL se obtiene la MTP? 1000 Ω
+
+3.6.7. Grafique la curva Potencia vs RL y comente.
+
+![image](https://user-images.githubusercontent.com/116772752/212811406-1344e183-9345-47e4-a71d-9400c6bfbb4c.png)
+
+Calcular errores de las mediciones y comentar los resultados.
+
+imagen tabla de datos 2
+
+imagen de calculos
+
+
+
+4. CONCLUSIONES:
+• La teoria de transferencia maxima de potencia comprende una rama importante en la realizacion de ejercicios de fundamientos de circuitos lo cual se compone de caracteristicas aprendidas anterioremente es importante tomar en cuaenta cuando se tenga dudas de las resoluciones de ejercicios de circuitos paralelos.
+
+• La resolución de ejercicios aplicando la teoria de maxima transferencia de potencia es tambien tener en cuenta los metodos aprendidos aplicados en las leyes de kirchoff el teorema indica que debes separar por partes cada malla del circuito.
+
+5. RECOMENDACIONES:
+• Al momento de realizar los cálculos tener en cuenta el tipo de multímetro y en que parte del multímetro se desea hacer la consulta ya que si se hace mal uso de este se podría perder el multímetro las protoboards tratar de distribuir bien sus funciones y no poner todo en un solo lugar.
+
+• En los cálculos tener muy en cuenta la formula del teorema de Thevenin ya que se desean los cálculos aplicando ese método tomar en cuenta la interrogante que nos pide encontrar y realizar cálculos preciosos, los componentes de experimento tener en cuenta y revisarlos antes de ponerlos en usa controlar el voltaje de entrada y realizar el trabajo con las indicaciones correspondientes.
+
+6. BIBLIOGRAFÍA:
+-Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
+
+-Teorema de máxima transferencia de potencia. (2016, 5 diciembre). [Vídeo].
+
+YouTube. https://www.youtube.com/watch?v=uPcY8fedBdA
