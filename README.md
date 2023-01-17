@@ -49,23 +49,29 @@ Figura 6.1. Circuito para comprobar el Teorema de la MTP
 
 3.6.2. Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
 
-imagenes....
+![image](https://user-images.githubusercontent.com/116772752/212914773-dd83a44b-227a-404f-9b47-47417a1d8998.png)
 
+![image](https://user-images.githubusercontent.com/116772752/212914946-1a0ecd78-397d-4a24-990a-b158ca72d7f9.png)
 
+![image](https://user-images.githubusercontent.com/116772752/212915078-fe5c2c1e-f1f5-49e0-a218-172b7dd9849a.png)
 
+![image](https://user-images.githubusercontent.com/116772752/212915182-96cdcd96-ae77-4719-add4-7836ba49dde1.png)
 
+![image](https://user-images.githubusercontent.com/116772752/212915326-8e5353c5-b76d-4c7e-9f31-c794167b3ee8.png)
 
+![image](https://user-images.githubusercontent.com/116772752/212915443-03ba090c-ab9b-42f9-ba3f-b706834109a9.png)
 
+![image](https://user-images.githubusercontent.com/116772752/212915582-8099c115-6bc7-4edc-8536-04ec5cc1c12f.png)
 
+![image](https://user-images.githubusercontent.com/116772752/212915726-5b421dcf-29c8-4414-b21a-8dbe4f552624.png)
+
+![image](https://user-images.githubusercontent.com/116772752/212915852-813fd8e4-6d18-412c-a79c-8811e6f55207.png)
 
 3.6.3. Calcule la potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
 
+![image](https://user-images.githubusercontent.com/116772752/212916317-d3c3cd88-3516-432a-8dad-79ee4a9088f2.png)
 
-imagenes....
-
-
-
-
+![image](https://user-images.githubusercontent.com/116772752/212916469-a49e10fb-9bb8-4fc6-b1f7-7975d2ebb236.png)
 
 
 3.6.4. Mida la potencia empleando un vatímetro en el software ACDCLAB en RL y anote los resultados en la tabla 3.1.
@@ -114,7 +120,7 @@ Anote los resultados medidos.
 
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
-imagen cuadro de datos
+![image](https://user-images.githubusercontent.com/116772752/212917356-705b5785-812b-4b53-8a87-b2f7c4acd5c5.png)
 
 3.6.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
@@ -130,11 +136,11 @@ imagen cuadro de datos
 
 Calcular errores de las mediciones y comentar los resultados.
 
-imagen tabla de datos 2
+![image](https://user-images.githubusercontent.com/116772752/212917568-93c8221a-3ae6-47f8-b590-f5a60e92019f.png)
 
-imagen de calculos
+![image](https://user-images.githubusercontent.com/116772752/212917801-db60cedc-2776-4c50-80d8-01203878b948.png)
 
-
+![image](https://user-images.githubusercontent.com/116772752/212917995-2c33c3a5-95b0-4607-8c33-8b301a80b01a.png)
 
 4. CONCLUSIONES:
 • La teoria de transferencia maxima de potencia comprende una rama importante en la realizacion de ejercicios de fundamientos de circuitos lo cual se compone de caracteristicas aprendidas anterioremente es importante tomar en cuaenta cuando se tenga dudas de las resoluciones de ejercicios de circuitos paralelos.
